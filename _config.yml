@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: "/arpitmrana.github.io"
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -23,7 +23,7 @@ title: Arpit Rana # the main title
 tagline: Recommender Systems | Human-computer Interaction | Machine Learning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Dr. Arpit Rana is an Assistant Professor at Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar. He did his Ph.D. from University College Cork, Ireland in 2020. Prior to joining DA-IICT, He worked as a Postdoctoral Fellow at the Department of Industrial Engineering, University of Toronto (U of T), Canada.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://arpitmrana.github.io"
@@ -41,11 +41,11 @@ social:
   email: er.arpitrana@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/arpitmrana # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/arpitrana
 
 google_site_verification: # fill in to your verification string
 
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/arpitmrana.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -174,7 +174,7 @@ compress_html:
   comments: all
   endings: all
   profile: false
-  blanklines: false
+  blanklines: true
   ignore:
     envs: [development]
 

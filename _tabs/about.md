@@ -1,8 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+**Dr. Arpit Rana** is an Assistant Professor at Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar. He did his Ph.D. from University College Cork, Ireland in 2020. Prior to joining DA-IICT, He worked as a Postdoctoral Fellow at the Department of Industrial Engineering, University of Toronto (U of T), Canada.
+
+## Specialization
+Dr. Rana’s research interests are Recommender Systems, Human-Computer Interaction, Information Retrieval, and Decision Support Systems. In particular, He is interested in developing Computational Models of Information Recommendation Systems that employ human factors of Attention, Perception, Understanding, and Decision Making, and evaluating their effects on the user experience through A/B testing or Online User Studies (Trials).
