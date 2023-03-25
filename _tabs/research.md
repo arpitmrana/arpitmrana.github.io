@@ -1,5 +1,5 @@
 ---
-icon: fas fa-tag
+icon: fa-solid fa-book-open
 order: 2
 ---
 
