@@ -12,4 +12,4 @@ order: 3
 
 ## Journal Articles:
 - Arpit Rana, Rafael Martins D'addio, Marcelo Manzato, and Derek Bridge. 2022. Extended Recommendation-By-Explanation. User Modeling and User Adapted Interaction, Springer.
-- Arpit Rana, Scott Sanner, Mohamed Reda Baudjenek, Ron Dicarlantonio, and Gary Farmaner. 2023. User Experience and the Role of Personalization in Critiquing-Based Conversational Recommendation. The ACM Transactions on Web (TWeb). (Accepted)
+- Arpit Rana, Scott Sanner, Mohamed Reda Baudjenek, Ron Dicarlantonio, and Gary Farmaner. 2023. User Experience and the Role of Personalization in Critiquing-Based Conversational Recommendation. The ACM Transactions on the Web (TWeb). (Accepted)
