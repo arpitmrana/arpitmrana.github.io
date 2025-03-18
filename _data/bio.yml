@@ -1,9 +1,5 @@
 # Biographical sketch
 
 - bio:
-  title: Biography
-  content: Dr. Arpit Rana is an Assistant Professor at Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar. He did his Ph.D. from University College Cork, Ireland in 2020. Prior to joining DA-IICT, He worked as a Postdoctoral Fellow at the Department of Industrial Engineering, University of Toronto (U of T), Canada.
+  content: I am currently an Assistant Professor at the Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT) in Gandhinagar, Gujarat, India. Before joining DA-IICT, I completed a Postdoctoral Fellowship at the University of Toronto, Canada, where I collaborated with an industry partner on conversational recommendation systems. <br><br> My research lies at the intersection of Recommender Systems, Multimodal Learning, and Applied Machine Learning. I focus on building intelligent recommendation models that incorporate human-centric factors such as attention, perception, understanding, and decision-making. A key aspect of my work involves evaluating the real-world impact of these systems through A/B testing and online user studies. I’m also deeply interested in exploring how AI and machine learning can drive digital innovation and transformation across industries.
 
-- specialization:
-  title: Specialization
-  content: Dr. Rana’s research interests are Recommender Systems, Human-Computer Interaction, Information Retrieval, and Decision Support Systems. In particular, He is interested in developing Computational Models of Information Recommendation Systems that employ human factors of Attention, Perception, Understanding, and Decision Making, and evaluating their effects on the user experience through A/B testing or Online User Studies (Trials).

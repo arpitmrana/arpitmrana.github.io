@@ -20,7 +20,7 @@ timezone: Asia/Kolkata
 
 title: Arpit Rana # the main title
 
-tagline: Recommender Systems | Human-computer Interaction | Machine Learning # it will display as the sub-title
+tagline:  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Dr. Arpit Rana is an Assistant Professor at Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar. He did his Ph.D. from University College Cork, Ireland in 2020. Prior to joining DA-IICT, He worked as a Postdoctoral Fellow at the Department of Industrial Engineering, University of Toronto (U of T), Canada.

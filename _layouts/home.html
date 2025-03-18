@@ -3,33 +3,64 @@ layout: content
 # The Home page layout
 ---
 
+
 <div id="core-wrapper">
-    <h1 class="dynamic-title">
-        About
-    </h1>
-    <div id="post-list">
-        {% for entry in site.data.bio %}
-        <div class="card post-preview">
-            <div class="card-body">
-                <h1 class="card-title">{{ entry.title }}</h1>
-                <div class="card-text post-content">
-                    <p>{{ entry.content }}</p>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
-        <div class="card post-preview">
-            <div class="card-body">
-                <h1 class="card-title">News</h1>
-                <div class="card-text post-content news">
-                    {% for news in site.data.news %}
-                    <div class="news-item">
-                        <h2 class="news-title">{{ news.title }} | <small>{{ news.date }}</small></h2>
-                        <p class="news-content">{{ news.content }}</p>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="profile-wrapper text-center" style="display:flex; align-items: center;">
+		<div class="profilephoto-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: fit-content;">
+			<div id="avatar" style="width: fit-content;">
+				<a href="{{ '/' | relative_url }}" class="mx-auto">
+				{% if site.avatar != empty and site.avatar %}
+				{% capture avatar_url %}
+				{% if site.avatar contains '://' %}
+				{{ site.avatar }}
+				{% elsif site.img_cdn != empty and site.img_cdn %}
+				{{ site.avatar | prepend: site.img_cdn }}
+				{% else %}
+				{{ site.avatar | relative_url }}
+				{% endif %}
+				{% endcapture %}
+				<img src="{{ avatar_url | strip }}" alt="avatar" style="border-radius:50%; width:70%; height:80%; "
+					onerror="this.style.display='none'">
+				{% endif %}
+				</a>
+			</div>
+			<div class="site-title" style="width: fit-content;display: none;  ">
+				<a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+			</div>
+			<div class="site-subtitle font-italic">{{ site.tagline }}</div>
+		</div>
+		<div class="ProfileInfo-Container" style="display: flex;flex-direction: column;align-items: flex-start;">
+			<h1 style="margin: 0;margin-bottom: 20px;">Arpit Rana</h1>
+			<p style="margin: 0;">Assistant Professor, </p>
+			<p style="margin: 0;">Area of Computer Science &amp; Engineering @DA-IICT</p>
+			<p style="margin: 0;">PI: Data-Informed Decision Making Lab </p>
+			<p style="margin: 0;">PI: Smart Energy Learning Centre</p>
+		</div>
+	</div>
+	<!-- .profile-wrapper -->
+	<div id="post-list">
+		{% for entry in site.data.bio %}
+		<div class="card post-preview">
+			<div class="card-body">
+				<h1 class="card-title">{{ entry.title }}</h1>
+				<div class="card-text post-content">
+					<p style="text-overflow:unset; display:block;">{{ entry.content }}</p>
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+		<div class="card post-preview">
+			<div class="card-body">
+				<h1 class="card-title">News</h1>
+				<div class="card-text post-content news">
+					{% for news in site.data.news %}
+					<div class="news-item">
+						<h2 class="news-title">{{ news.title }} | <small>{{ news.date }}</small></h2>
+						<p class="news-content">{{ news.content }}</p>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
