@@ -53,12 +53,14 @@ layout: content
 			<div class="card-body">
 				<h1 class="card-title">News</h1>
 				<div class="card-text post-content news">
+          <ul>
 					{% for news in site.data.news %}
 					<div class="news-item">
-						<h2 class="news-title"><small>{{ news.date }}</small> <br> {{ news.title }} </h2>
-						<p class="news-content">{{ news.content }}</p>
+						<li><h2 class="news-title"><small>{{ news.date }}</small> <br> {{ news.title }} </h2></li>
+<!-- 						<p class="news-content">{{ news.content }}</p> -->
 					</div>
 					{% endfor %}
+          </ul>
 				</div>
 			</div>
 		</div>
