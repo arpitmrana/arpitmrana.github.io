@@ -55,7 +55,7 @@ layout: content
 				<div class="card-text post-content news">
 					{% for news in site.data.news %}
 					<div class="news-item">
-						<h2 class="news-title">{{ news.title }} | <small>{{ news.date }}</small></h2>
+						<h2 class="news-title"><small>{{ news.date }}</small> <br> {{ news.title }} </h2>
 						<p class="news-content">{{ news.content }}</p>
 					</div>
 					{% endfor %}
