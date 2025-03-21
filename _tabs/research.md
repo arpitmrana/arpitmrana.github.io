@@ -13,5 +13,5 @@ order: 2
 - Shengnan Lyu, Arpit Rana, Scott Sanner, and Mohamed Reda Baudjenek. 2021. A Workflow Analysis of Context-Driven Conversational Recommendation, 30th International Conference on the World Wide Web (WWW’21), Ljubljana.
 
 ## Journal Articles:
-- Arpit Rana, Rafael Martins D'addio, Marcelo Manzato, and Derek Bridge. 2022. Extended Recommendation-By-Explanation. User Modeling and User Adapted Interaction, Springer.
-- Arpit Rana, Scott Sanner, Mohamed Reda Baudjenek, Ron Dicarlantonio, and Gary Farmaner. 2023. User Experience and the Role of Personalization in Critiquing-Based Conversational Recommendation. The ACM Transactions on the Web (TWeb). (Accepted)
+- Arpit Rana, Rafael Martins D'addio, Marcelo Manzato, and Derek Bridge. 2022. Extended Recommendation-By-Explanation. User Modeling and User-Adapted Interaction, Springer.
+- Arpit Rana, Scott Sanner, Mohamed Reda Baudjenek, Ron Dicarlantonio, and Gary Farmaner. 2024. User Experience and the Role of Personalization in Critiquing-Based Conversational Recommendation. The ACM Transactions on the Web (TWeb).
