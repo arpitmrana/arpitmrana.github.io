@@ -18,7 +18,7 @@ order: 4
 - **M.Sc. Data Science Students**
   - Ashish Kar, Yashraj Sinh, Devanshi Acharya, Kshiti Mulani <br>
     (Building Renewable Energy Data Ecosystem for Informed Decision-Making)
-  - Heer Choksi, Aruni Saxena <br>
+  - Heer Chokshi, Aruni Saxena <br>
     (Decision Support System for Residential Rooftop Solar)
   - Krisha Sompura, Kumar Sanskar, Naman Gandhi, Aayan  <br>
     (Catastrophic Risk Assessment)
