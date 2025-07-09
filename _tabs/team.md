@@ -27,19 +27,19 @@ order: 4
 
 # Former Team Members
 
-- Ayush Hirdani (ML Engineer, Searce Inc.), Sumukh Patel (McGill University, Canada) | B.Tech. ICT, 2024-25  <br>
+- Ayush Hirdani (Business Analyst, Searce Inc.), Sumukh Patel (McGill University, Canada) | B.Tech. ICT, 2024-25  <br>
   (Denoising Implicit Feedback in Recommendations)
   
 - Kirtan Soni (Software Engineer, Google), Krish Rupapara (Data Scientist, Meesho) | B.Tech. ICT, 2024-25  <br>
   (Document AI for New and Renewable Energy Policy Analysis)
   
-- Akshat Prasad (ML Engineer, Searce Inc.), Takshay Makadiya | B.Tech. ICT, 2024-25 <br>
+- Akshat Prasad (ML Engineer, Searce Inc.), Takshay Makadiya (Software Engineer,  Tekion India Pvt. Ltd.) | B.Tech. ICT, 2024-25 <br>
   (Voice Biometric (in collaboration with Prof. Sujay Kadam))
 
 - Anurag Shukla (Quantitative Analyst, Gift Street Capital), Tanaz Pathan (Business Analyst, Amazon India) | M.Sc. Data Science, 2024-25 <br>
   (Building Renewable Energy Data Ecosystem for Informed Decision-Making)
 
-- Bhawan Bhatt, Nishith Munjani, Pratham Patel, Viraj Prajapati | M.Tech. ICT, 2024-25 <br>
+- Bhawan Bhatt (Software Engineer, Momentum91) | M.Tech. ICT, 2024-25 <br>
   (Unveiling Engagement Dynamics on Instagram)
 
 - Kashyap Halavadia (Software Engineer, Microsoft India)| B.Tech. MnC 2023-24 <br>
