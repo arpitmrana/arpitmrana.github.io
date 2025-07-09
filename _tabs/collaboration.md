@@ -16,7 +16,6 @@ order: 5
 
 # Academic
 
-- **Prof. Tathagata Bandyopadhyay**, DAU
-- **Prof. Sreeja Rajendran**, DAU
-- **Prof. Sujay Kadam**, DAU
-- **Prof. Tapas Kumar Maiti**, DAU
+- **Prof. Tathagata Bandyopadhyay**, Dhirubhai Ambani University
+- **Prof. Sreeja Rajendran**, Dhirubhai Ambani University
+- **Prof. Sujay Kadam**, Dhirubhai Ambani University
