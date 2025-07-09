@@ -20,7 +20,7 @@ order: 4
     (Building Renewable Energy Data Ecosystem for Informed Decision-Making)
   - Heer Choksi, Aruni Saxena <br>
     (Decision Support System for Residential Rooftop Solar)
-  - Krisha Sompura, Kumar Sanskar
+  - Krisha Sompura, Kumar Sanskar, Naman Gandhi, Aayan  <br>
     (Catastrophic Risk Assessment)
 
 ---
@@ -45,12 +45,12 @@ order: 4
 - Kashyap Halavadia (Software Engineer, Microsoft India)| B.Tech. MnC 2023-24 <br>
   (Mining Patterns in Stackoverflow Engagement)
 
-- Hinal Desai (Software Engineer, Gift Street Capital) | M.Tech. ICT, 2023-24
+- Hinal Desai (Quantitative Developer, Gift Street Capital) | M.Tech. ICT, 2023-24 <br>
   (Introducing Diversity in Fashion Recommendations)
 
-- Naiya Patel (AI Platform Engineer, Schneider Electric India) | M.Tech. ICT, 2023-24
+- Naiya Patel (AI Platform Engineer, Schneider Electric India) | M.Tech. ICT, 2023-24 <br>
   (Denoising Recommendations)
 
-- Yash Pathak (Scientific Officer, Institute of Plasma Research, India) | M.Tech. ICT, 2022-23
+- Yash Pathak (Scientific Officer, Institute of Plasma Research, India) | M.Tech. ICT, 2022-23 <br>
   (Counterfactual Explanations of Recommendations)
 
