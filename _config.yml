@@ -22,7 +22,7 @@ title: Arpit Rana # the main title
 
 tagline:  # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: >- # used by seo meta and the Atom feed
   Explore the research, teaching, and academic collaborations of Dr. Arpit Rana and his team. Includes project updates, group news, and information on ongoing work in data science and machine learning.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://arpitmrana.github.io"
