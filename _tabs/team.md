@@ -3,8 +3,8 @@ layout: content
 icon: fas fa-stream
 order: 4
 ---
-$${\color{blue}\text{We have exciting openings for various positions!} }$$ 
-$${\color{gray}\text{Join our innovative team and contribute to cutting-edge research.}}$$
+> $${\color{blue}\text{We have exciting openings for various positions!} }$$ 
+> $${\color{gray}\text{Join our innovative team and contribute to cutting-edge research.}}$$
 ---
 
 
