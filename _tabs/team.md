@@ -3,6 +3,11 @@ layout: content
 icon: fas fa-stream
 order: 4
 ---
+> ### 🎉 **We have exciting openings for various positions!** 🎉
+> **Join our innovative team and contribute to cutting-edge research.**
+
+---
+
 
 - **Research Fellows**
    - Devansh Vora <br>
