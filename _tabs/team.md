@@ -3,7 +3,7 @@ layout: content
 icon: fas fa-stream
 order: 4
 ---
-> ### 🎉 **We have exciting openings for various positions!** 🎉
+> ### 🎉 **We have openings for B.Tech. V Semester Students!** 🎉
 > **Join our innovative team and contribute to cutting-edge research.**
 ---
 
