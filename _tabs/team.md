@@ -5,7 +5,7 @@ order: 4
 ---
 > ### 🎉 **We have openings for B.Tech. V Semester Students!** 🎉
 > **Join our innovative team and contribute to cutting-edge research.**
----[Download PDF](https://github.com/arpitmrana/arpitmrana.github.io/blob/main/_data/Power%20BI%20vs%20Tableau%20Infographic.pdf)
+---[Download PDF](https://raw.githubusercontent.com/arpitmrana/arpitmrana.github.io/blob/main/_data/Power%20BI%20vs%20Tableau%20Infographic.pdf)
 
 
 - **Research Fellows**
