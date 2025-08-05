@@ -3,11 +3,10 @@ layout: content
 icon: fas fa-stream
 order: 4
 ---
-> ### 🎉 **We have openings for B.Tech. V Semester Students!** 🎉
-> **Join our innovative team and contribute to cutting-edge research.**
----[Download PDF](https://raw.githubusercontent.com/arpitmrana/arpitmrana.github.io/main/_data/Power%20BI%20vs%20Tableau%20Infographic.pdf)
 
-
+{% comment %}
+#---[Download PDF](https://raw.githubusercontent.com/arpitmrana/arpitmrana.github.io/main/_data/Power%20BI%20vs%20Tableau%20Infographic.pdf)
+{% endcomment %}
 - **Research Fellows**
    - Devansh Vora <br>
 	   (Document AI for New and Renewable Energy Policy Analysis)
