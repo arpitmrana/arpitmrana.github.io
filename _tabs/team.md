@@ -14,23 +14,22 @@ order: 4
    - Dhara Shah <br>
 	   (Decision Support System for Residential Rooftop Solar)
 
-- **M.Tech. Students**
-  - Ritwik Agrawal, Dhruv Panchal  <br>
-    (Decision Support System for Residential Rooftop Solar)
+- **B.Tech. Students**
+  - Akshada Modak and Hiya Modi <br>
+    (Denoising Implicit Feedback for Recommendations)
 
-- **M.Sc. Data Science Students**
-  - Ashish Kar, Yashrajsinh Chudasama, Deepanshi Acharya, Kshiti Mulani <br>
-    (Building Renewable Energy Data Ecosystem for Informed Decision-Making)
+  - Anushka Prajapati and Suryadeepsinh Gohil <br>
+    (Estimating Residential Rooftop Solar Potential)
 
-  - Heer Chokshi, Aruni Saxena <br>
-    (Decision Support System for Residential Rooftop Solar)
-
-  - Krisha Sompura, Kumar Sanskar, Naman Gandhi, Aayan  <br>
-    (Catastrophic Risk Assessment (in collaboration with Prof. Tathagata Bandyopadhyay))
+  - Tanuj Kanani and Chaitanya Vats <br>
+    (Document AI for Policy Analysis and Governance)
 
 ---
 
 # Former Team Members
+
+- **Ritwik Agrawal** (Software Engineer, Bank of America, India), **Dhruv Panchal** (Software Engineer, Bank of America, India) | M.Tech. ICT, 2025-26 <br>
+  (Personalized Coresets for Implicit Feedback-Based Recommendation Systems)
 
 - **Kirtan Soni** (Software Engineer, Google, India), **Krish Rupapara** (Data Scientist, Meesho, India) | B.Tech. ICT, 2024-25  <br>
   (Document AI for New and Renewable Energy Policy Analysis)
