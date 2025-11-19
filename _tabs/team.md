@@ -8,7 +8,7 @@ order: 4
 #---[Download PDF](https://raw.githubusercontent.com/arpitmrana/arpitmrana.github.io/main/_data/Power%20BI%20vs%20Tableau%20Infographic.pdf)
 {% endcomment %}
 
-I am inviting applications for **full-time Ph.D. positions** in my research group.  
+I am inviting applications for **multiple full-time Ph.D. positions** in my research group.  
 Candidates with strong backgrounds in **Mathematics, Statistics, Data Science, Machine Learning, or Computer Science** are especially encouraged to apply.
 
 - **Research Fellows**
