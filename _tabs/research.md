@@ -4,9 +4,10 @@ icon: fa-solid fa-book-open
 order: 2
 ---
 ## Research Areas
-- Recommendation Systems, Machine Learning, Multimodality, and their applications in solving Data-Informed Decision-Making Problems.
+- Recommendation Systems, Machine Learning, Multimodality, and their applications in the design and development of next-generation information systems.
 
 ## Conference Papers
+- Kirtan Soni, Krish Rupapara, Arpit Rana, Ghanshyam Verma, and Paul Buitelaar. 2026. EvalQAG: A Framework for Automatic Complex QA Generation and a Benchmark QA Dataset for Policy Documents. 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26), Singapore. [Accepted]
 - Shengnan Lyu, Arpit Rana, Scott Sanner, and Mohamed Reda Baudjenek. 2021. A Workflow Analysis of Context-Driven Conversational Recommendation, 30th International Conference on the World Wide Web (WWW’21), Ljubljana.
 - Arpit Rana and Derek Bridge. 2020. Navigation-By-Preference: A New Conversational Recommender with Preference-Based Feedback. 25th ACM Conference on Intelligent User Interface (IUI’20), Cagliari, Italy
 - Arpit Rana and Derek Bridge. 2018. Explanations that are Intrinsic to Recommendations. 26th ACM Conference on User Modeling, Adaptation and Personalization (UMAP’18), Singapore, Singapore.
