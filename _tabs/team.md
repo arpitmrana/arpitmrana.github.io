@@ -7,6 +7,17 @@ order: 4
 {% comment %}
 #---[Download PDF](https://raw.githubusercontent.com/arpitmrana/arpitmrana.github.io/main/_data/Power%20BI%20vs%20Tableau%20Infographic.pdf)
 {% endcomment %}
+
+## 🚀 **Ph.D. Positions Open** — School of Technology, Dhirubhai Ambani University, India
+
+I am inviting applications for **full-time Ph.D. positions** in my research group.  
+Candidates with strong backgrounds in **Mathematics, Statistics, Data Science, Machine Learning, or Related Fields** are especially encouraged to apply.
+
+📩 **If interested, please email me with your CV, transcripts, and a brief statement of research interests.**
+
+💡 *Excellent opportunity to work on high-impact, interdisciplinary AI research at the intersection of multimodality, policy, and sustainability.*
+
+
 - **Research Fellows**
    - Devansh Vora <br>
 	   (Document AI for New and Renewable Energy Policy Analysis)
