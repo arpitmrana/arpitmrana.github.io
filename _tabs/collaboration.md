@@ -18,4 +18,4 @@ order: 5
 
 - **Prof. Tathagata Bandyopadhyay**, Dhirubhai Ambani University
 - **Prof. Sreeja Rajendran**, Dhirubhai Ambani University
-- **Prof. Sujay Kadam**, Dhirubhai Ambani University
+- **Prof. Rachit Chhaya**, Dhirubhai Ambani University
